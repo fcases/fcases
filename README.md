@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... ZIG
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : fcases@k6site.es
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
